@@ -1,0 +1,2 @@
+      "devTunnelEnabled": true,
+      "devTunnelAccess": "public"
